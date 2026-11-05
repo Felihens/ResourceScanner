@@ -1,0 +1,24 @@
+RESOURCE SCANNER - HOW TO INSTALL
+=================================
+
+Requires BepInEx for Valheim.
+
+MANUAL
+1. Extract this zip.
+2. Open the "plugins" folder from the zip.
+3. Copy the "ResourceScanner" folder into:
+       Valheim\BepInEx\plugins\
+
+   Result:
+       Valheim\BepInEx\plugins\ResourceScanner\ResourceScanner.dll
+
+4. Launch the game.
+
+R2MODMAN / THUNDERSTORE MOD MANAGER
+Settings > Import local mod > pick this .zip (don't extract it).
+
+UPDATING
+Delete the old ResourceScanner folder first.
+
+Config: press F1 in game (Configuration Manager) or edit
+Valheim\BepInEx\config\felih.ResourceScanner.cfg. See README.md.
