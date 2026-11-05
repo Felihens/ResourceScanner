@@ -62,6 +62,10 @@ Press **F1** in game (requires Configuration Manager) or edit `BepInEx/config/fe
 | GroundPlane | on | See-through plane at ground level. |
 | WindowOffsetX / WindowOffsetY | 0 | Moves the window. It sits under the minimap by default. |
 
+### Bugs & suggestions
+
+Found a bug or have an idea? Open an [issue](https://github.com/Felihens/ResourceScanner/issues) or start a [discussion](https://github.com/Felihens/ResourceScanner/discussions) on GitHub.
+
 ### Notes
 
 - Inspired by **Ore Status** and **Tree Status** by JoelOliMclean, which no longer work well on current Valheim. This is a new mod written from scratch.
@@ -122,6 +126,10 @@ Aperte **F1** no jogo (precisa do Configuration Manager) ou edite `BepInEx/confi
 | WindowSize | 220 | Tamanho da vista 3D (vale depois de reiniciar). |
 | GroundPlane | ligado | Plano translúcido no nível do chão. |
 | WindowOffsetX / WindowOffsetY | 0 | Move a janela. Por padrão ela fica abaixo do minimapa. |
+
+### Bugs e sugestões
+
+Achou um bug ou tem uma ideia? Abra uma [issue](https://github.com/Felihens/ResourceScanner/issues) ou comece uma [discussão](https://github.com/Felihens/ResourceScanner/discussions) no GitHub.
 
 ### Observações
 
