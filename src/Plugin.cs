@@ -15,7 +15,7 @@ namespace ResourceScanner
     {
         public const string GUID = "felih.ResourceScanner";
         public const string NAME = "Resource Scanner";
-        public const string VERSION = "0.5.0";
+        public const string VERSION = "1.0.0";
 
         public static ManualLogSource Log;
         public static ConfigEntry<bool> Enabled;

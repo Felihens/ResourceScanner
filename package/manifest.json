@@ -1,6 +1,6 @@
 {
   "name": "ResourceScanner",
-  "version_number": "0.5.0",
+  "version_number": "1.0.0",
   "website_url": "https://github.com/Felihens/ResourceScanner",
   "description": "Shows the health of trees, logs, stumps, rocks, ores and nests you aim at. Right-click an ore deposit with a pickaxe for a live 3D x-ray of the whole deposit, buried pieces included. Client-side.",
   "dependencies": [

@@ -298,6 +298,12 @@ namespace ResourceScanner
                     _barRoot.sizeDelta = new Vector2(BarW, BarH);
                     _barRoot.localScale = Vector3.one;
                     _bars.AddRange(clone.GetComponentsInChildren<GuiBar>(true));
+                    // GuiBar remembers its full width when created, before the resize above; give it the new one.
+                    foreach (GuiBar b in _bars)
+                    {
+                        RectTransform fill = Traverse.Create(b).Field<RectTransform>("m_bar").Value;
+                        if (fill != null) Traverse.Create(b).Field<float>("m_width").Value = fill.sizeDelta.x;
+                    }
                     // The bar drawn on top is the one that shows the current value.
                     foreach (GuiBar b in _bars) if (b.gameObject.name.ToLowerInvariant().Contains("fast")) _mainBar = b;
                     if (_mainBar == null && _bars.Count > 0) _mainBar = _bars[_bars.Count - 1];

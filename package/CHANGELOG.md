@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.0
+- Fixed: at full health the bar only filled half of the box. / Corrigido: com a vida cheia a barra só enchia metade da caixa.
+
 ## 0.5.0
 - First release. / Primeira versão.
 - Health box at the bottom of the screen for trees, logs, stumps, rocks, ore deposits and nests, in the game's own inventory style. / Caixa de vida no rodapé da tela para árvores, troncos, tocos, pedras, depósitos de minério e ninhos, no estilo do inventário do jogo.
