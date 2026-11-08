@@ -9,6 +9,8 @@ Mod para Valheim (BepInEx, client-side): uma caixinha no rodapé da tela mostra 
 For players, see [package/README.md](package/README.md). That file is also the Thunderstore page.
 Para jogadores, veja [package/README.md](package/README.md).
 
+Download: [Thunderstore](https://thunderstore.io/c/valheim/p/DJAventuras/ResourceScanner/) · [Nexus Mods](https://www.nexusmods.com/valheim/mods/4894) · [GitHub Releases](https://github.com/Felihens/ResourceScanner/releases)
+
 Sister mods / mods irmãos: [Ore Weak Spots](https://github.com/Felihens/OreWeakSpots), [Tree Weak Spots](https://github.com/Felihens/TreeWeakSpots).
 
 ## Project layout

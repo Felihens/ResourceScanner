@@ -34,6 +34,8 @@ See how much is left of whatever you're chopping or mining. Aim at a tree, log, 
 
 **r2modman / Thunderstore Mod Manager:** click *Install*. To install a downloaded zip, go to Settings → *Import local mod*.
 
+**Nexus Mods / Vortex:** also on [Nexus Mods](https://www.nexusmods.com/valheim/mods/4894).
+
 **Manual:**
 1. Extract the zip.
 2. Copy the `plugins/ResourceScanner` folder into `Valheim/BepInEx/plugins/`.
@@ -98,6 +100,8 @@ Veja quanto falta de tudo o que você está cortando ou minerando. Mire numa ár
 ### Instalação
 
 **r2modman / Thunderstore Mod Manager:** clique em *Install*. Para instalar um zip baixado, use Configurações → *Import local mod*.
+
+**Nexus Mods / Vortex:** também está no [Nexus Mods](https://www.nexusmods.com/valheim/mods/4894).
 
 **À mão:**
 1. Extraia o zip.
